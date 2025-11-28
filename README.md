@@ -41,14 +41,20 @@ python comparison_with_toppra_pin.py
 
 And then follow the instructions within the script and see the plots and robot animation.
 
-<video src="images/traj.mp4" width="600" controls></video>
+https://github.com/user-attachments/assets/48ea5ccb-9eb6-473b-8b22-c7f71743eb8b
+
 
 For example comparing the two approaches position, velocity, acceleration and jerk profiles on the given trajectory:
 <img src="images/1.png" width="500">
 and the error between the two approaches:
 <img src="images/error.png" width="500">
 
+
+
+
+
+
 You will also be able to see the side-by-side animation of the two robots following the same trajectory where the left robot is using our approach and the right robot is using toppra approach.
 
 
-<video src="images/both.mp4" width="600" controls></video>
+https://github.com/user-attachments/assets/a0e71abf-0613-4763-a571-f4f69cf36507
