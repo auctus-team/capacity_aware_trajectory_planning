@@ -5,6 +5,13 @@ The method is based on Trapezoidal Acceleration Profile (TAP) planning which is 
 
 The method is described more in detail within the [preprint](https://inria.hal.science/hal-03791783/document).
 
+## Interactive simulation 
+
+Now available in the form of the Hugging Face space:  https://askuric-capacity-aware-trajectory-planning.hf.space/
+<img width="1651" height="881" alt="image" src="https://github.com/user-attachments/assets/b299829a-d876-4c5c-bc58-d4d8bc1e7756" />
+
+
+
 ## Installation
 The code is implemented in Python and we strongly suggest to use anaconda to install the necessary libraries. 
 
